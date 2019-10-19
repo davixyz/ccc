@@ -4,7 +4,8 @@
   "description": "commitizen conventional commits || commits commits commits",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "standard-version"
   },
   "repository": {
     "type": "git",
@@ -16,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/davixyz/ccc/issues"
   },
-  "homepage": "https://github.com/davixyz/ccc#readme"
+  "homepage": "https://github.com/davixyz/ccc#readme",
+  "devDependencies": {
+    "standard-version": "^7.0.0"
+  }
 }
