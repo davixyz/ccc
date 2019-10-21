@@ -1,6 +1,6 @@
 {
   "name": "ccc",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "commitizen conventional commits || commits commits commits",
   "main": "index.js",
   "scripts": {
