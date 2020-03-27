@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/davixyz/ccc#readme",
   "devDependencies": {
-    "standard-version": "^7.0.0"
+    "standard-version": "^7.1.0"
   }
 }
